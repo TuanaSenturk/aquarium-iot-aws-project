@@ -14,3 +14,6 @@ dynamodb-key.json
 # AWS IoT certificates
 certs/*
 !certs/.gitkeep
+
+# Python virtual environment
+.venv/
