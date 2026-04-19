@@ -1,2 +1,16 @@
 
 .env
+
+# Generated AWS/local files
+aws-iot-policy.json
+lambda-dynamodb-policy.json
+lambda-trust-policy.json
+iot-rule-payload.json
+lambda_function.zip
+lambda-response.json
+test_event.json
+dynamodb-key.json
+
+# AWS IoT certificates
+certs/*
+!certs/.gitkeep
